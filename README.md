@@ -5,7 +5,7 @@
 Kaggle의 멀티 카테고리 이커머스 플랫폼 행동 데이터를 활용하여, 사용자의 웹 행동 패턴을 분석하고 서비스 개선을 위한 인사이트를 도출한 프로젝트입니다.
 
 - **데이터 출처:** [Kaggle - E-Commerce Behavior Data from Multi Category Store](https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store)
-- **분석 기간:** 2019년 10월 데이터
+- **분석 기간:** 2019년 10월 데이터(610만행)
 - **분석 목적:** 유저 행동 경로 파악 및 최종 목표(구매)까지의 개선점 도출
 
 ---
