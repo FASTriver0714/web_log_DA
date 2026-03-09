@@ -80,5 +80,7 @@ web_log_DA
 - **체류 시간 추이:** 일별 평균 체류 시간 변화를 통해 특정 이벤트/프로모션 효과 탐지 가능
 
 ## 데이터 및 산출물
+
 💾[데이터](https://drive.google.com/file/d/1826TZ9mtsSkhrEYv6qitIkQXXUkbofI7/view?usp=sharing)
+
 [대시보드](https://drive.google.com/file/d/1aJjX2MenOlR_qyDEZZhF2zLaUpzP8ppd/view?usp=sharing) ⬅️ 태블로
