@@ -83,4 +83,4 @@ web_log_DA
 
 💾[데이터](https://drive.google.com/file/d/1826TZ9mtsSkhrEYv6qitIkQXXUkbofI7/view?usp=sharing)
 
-[대시보드](https://drive.google.com/file/d/1aJjX2MenOlR_qyDEZZhF2zLaUpzP8ppd/view?usp=sharing) ⬅️ 태블로
+👀[대시보드](https://public.tableau.com/views/_17590510591340/KPI?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) ⬅️ Tableau Public
